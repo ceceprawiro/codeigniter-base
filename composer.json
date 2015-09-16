@@ -1,0 +1,7 @@
+{
+    "require": {
+        "twig/twig": "^1.21",
+        "illuminate/database": "^5.1",
+        "illuminate/events": "^5.1"
+    }
+}
